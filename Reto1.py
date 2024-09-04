@@ -19,3 +19,5 @@ if operacion == '/':
     else:
             resultado = num1 / num2
             print(" Resultado: ",resultado)
+else:
+    print("Operador invalido")
